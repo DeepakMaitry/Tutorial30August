@@ -1,0 +1,2 @@
+newAddress = currentAddress + i*sizeofdatatype
+
